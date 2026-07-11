@@ -1,1 +1,1 @@
-# nawa-s3browser-core
+# nawa-s3browser-sentinel

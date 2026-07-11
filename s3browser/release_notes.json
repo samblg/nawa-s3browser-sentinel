@@ -1,0 +1,78 @@
+{
+    "product_name": "Nawa S3 Browser",
+    "latest_version": "1.0.1",
+    "releases": [
+        {
+            "version": "1.0.1",
+            "build": "32",
+            "release_date": "2026-07-10T20:32:08.141Z",
+            "notes": {
+                "en": [
+                    "Fix native window dragging issue in macOS 27",
+                    "Support AWS S3 Express One Zone"
+                ],
+                "de": [
+                    "Problem beim Ziehen nativer Fenster unter macOS 27 behoben",
+                    "Unterstützung für AWS S3 Express One Zone hinzugefügt"
+                ],
+                "es": [
+                    "Se solucionó un problema al arrastrar ventanas nativas en macOS 27",
+                    "Se agregó compatibilidad con AWS S3 Express One Zone"
+                ],
+                "fr": [
+                    "Correction d'un problème de déplacement des fenêtres natives sous macOS 27",
+                    "Prise en charge d'AWS S3 Express One Zone"
+                ],
+                "ja": [
+                    "macOS 27でネイティブウインドウをドラッグする際の問題を修正しました",
+                    "AWS S3 Express One Zoneのサポートを追加しました"
+                ],
+                "pt-BR": [
+                    "Correção de um problema ao arrastar janelas nativas no macOS 27",
+                    "Suporte ao AWS S3 Express One Zone"
+                ],
+                "zh-Hans": [
+                    "修复了 macOS 27 中拖移原生窗口时的问题",
+                    "支持 AWS S3 Express One Zone"
+                ],
+                "zh-Hant": [
+                    "修正了 macOS 27 中拖移原生視窗時的問題",
+                    "支援 AWS S3 Express One Zone"
+                ]
+            },
+            "security_updates": "false"
+        },
+        {
+            "version": "1.0.0",
+            "build": "1",
+            "release_date": "2026-01-01T10:32:08.141Z",
+            "notes": {
+                "en": [
+                    "First release"
+                ],
+                "de": [
+                    "Erste Version"
+                ],
+                "es": [
+                    "Primera versión"
+                ],
+                "fr": [
+                    "Première version"
+                ],
+                "ja": [
+                    "最初のリリース"
+                ],
+                "pt-BR": [
+                    "Primeira versão"
+                ],
+                "zh-Hans": [
+                    "首次发布"
+                ],
+                "zh-Hant": [
+                    "首次發佈"
+                ]
+            },
+            "security_updates": "false"
+        }
+    ]
+}
